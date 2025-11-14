@@ -5,7 +5,9 @@ I specialize in building end-to-end analytical and operational solutions using P
 
 My work spans across logistics, customer service, oil & gas, and healthcare, where I focus on solving real-world business problems—ranging from consumer complaint analytics, operational efficiency monitoring, fraud detection, forecasting, and customer satisfaction insights. I enjoy working with messy data, uncovering patterns, and designing intuitive dashboards and systems that help stakeholders understand what is happening, why it's happening, and what actions to take.
 
+ **What I Do**
 
+ 
 **debora-afolayan/debora-afolayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
