@@ -7,6 +7,9 @@ My work spans across logistics, customer service, oil & gas, and healthcare, whe
 
  **What I Do**
 
+I transform raw data into actionable insights by cleaning, preparing, and modeling datasets using Power Query, Python, Excel, and SQL. I build interactive dashboards and reports in Power BI, uncover trends through exploratory data analysis (EDA), and develop forecasting models and KPIs that drive smarter business decisions. From optimizing processes to designing robust data models with time intelligence, I help organizations turn complex data into clarity, efficiency, and impactful insights.
+
+
  
 **debora-afolayan/debora-afolayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
