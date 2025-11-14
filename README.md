@@ -1,6 +1,11 @@
  **Hi there, I'm Deborah Afolayan 👋**
 
-<!--
+I am a Data, Strategic, and Operations Analyst passionate about transforming raw data and broken processes into actionable insights and efficient systems.
+I specialize in building end-to-end analytical and operational solutions using Power BI, SQL, Excel, and Python, with hands-on experience in data cleaning, modeling, performance analysis, workflow optimization, and insight-driven storytelling for business decisions.
+
+My work spans across logistics, customer service, oil & gas, and healthcare, where I focus on solving real-world business problems—ranging from consumer complaint analytics, operational efficiency monitoring, fraud detection, forecasting, and customer satisfaction insights. I enjoy working with messy data, uncovering patterns, and designing intuitive dashboards and systems that help stakeholders understand what is happening, why it's happening, and what actions to take.
+
+
 **debora-afolayan/debora-afolayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
