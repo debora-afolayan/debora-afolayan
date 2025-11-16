@@ -8,12 +8,12 @@ I specialize in building end-to-end analytical and operational solutions using P
 My work spans across logistics, customer service, oil & gas, and healthcare, where I focus on solving real-world business problems—ranging from consumer complaint analytics, operational efficiency monitoring, fraud detection, forecasting, and customer satisfaction insights. I enjoy working with messy data, uncovering patterns, and designing intuitive dashboards and systems that help stakeholders understand what is happening, why it's happening, and what actions to take.
 
 
- **What I Do**
+# **What I Do**
 
 I transform raw data into actionable insights by cleaning, preparing, and modeling datasets using Power Query, Python, Excel, and SQL. I build interactive dashboards and reports in Power BI, uncover trends through exploratory data analysis (EDA), and develop forecasting models and KPIs that drive smarter business decisions. From optimizing processes to designing robust data models with time intelligence, I help organizations turn complex data into clarity, efficiency, and impactful insights.
 
 
-**Tools I Use**
+# **Tools I Use**
 
  Tools & Technologies
  
@@ -27,10 +27,10 @@ Excel (Advanced Formulas, Pivot Tables, Power Pivot)
 
 Git & GitHub
 
-**How To Reach Me** 
+# **How To Reach Me** 
 
 [My Email Address](deborahafolayan97@gmail.com)
 
-+23347030415559
+[Call Line](+23347030415559)
 
 [My Linkedin Profile](https://www.linkedin.com/in/deborah-afolayan/)
