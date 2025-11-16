@@ -1,4 +1,4 @@
- **Hi there, I'm Deborah Afolayan 👋**
+# **Hi there, I'm Deborah Afolayan 👋**
  
  **Data | Strategy | Operations Analyst**
 
@@ -29,8 +29,8 @@ Git & GitHub
 
 **How To Reach Me** 
 
-deborahafolayan97@gmail.com
+[My Email Address](deborahafolayan97@gmail.com)
 
 +23347030415559
 
-https://www.linkedin.com/in/deborah-afolayan/
+[My Linkedin Profile](https://www.linkedin.com/in/deborah-afolayan/)
