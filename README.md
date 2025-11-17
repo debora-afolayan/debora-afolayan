@@ -32,7 +32,7 @@ I transform raw data into actionable insights by cleaning, preparing, and modeli
 
 # **How To Reach Me** 
 
-[My Email Address](deborahafolayan97@gmail.com)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>[My Email Address](deborahafolayan97@gmail.com)
 
 ![Call](https://img.shields.io/badge/Call-000000?style=for-the-badge&logo=phone&logoColor=white)
 [Call Line](+23347030415559)
