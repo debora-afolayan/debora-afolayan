@@ -37,5 +37,5 @@ I transform raw data into actionable insights by cleaning, preparing, and modeli
 ![Call](https://img.shields.io/badge/Call-000000?style=for-the-badge&logo=phone&logoColor=white)
 [Call Line](+23347030415559)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 [My Linkedin Profile](https://www.linkedin.com/in/deborah-afolayan/)
