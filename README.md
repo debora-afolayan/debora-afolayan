@@ -30,22 +30,11 @@ I transform raw data into actionable insights by cleaning, preparing, and modeli
 ![DAX](https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=powerbi&logoColor=white)
 
 
- Tools & Technologies
- 
-Power BI (DAX, Power Query, Modeling, Forecasting)
-
-SQL (MySQL, PostgreSQL, BigQuery)
-
-Python (Pandas, NumPy)
-
-Excel (Advanced Formulas, Pivot Tables, Power Pivot)
-
-Git & GitHub
-
 # **How To Reach Me** 
 
 [My Email Address](deborahafolayan97@gmail.com)
 
+![Call](https://img.shields.io/badge/Call-000000?style=for-the-badge&logo=phone&logoColor=white)
 [Call Line](+23347030415559)
 
 [My Linkedin Profile](https://www.linkedin.com/in/deborah-afolayan/)
