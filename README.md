@@ -15,10 +15,19 @@ I transform raw data into actionable insights by cleaning, preparing, and modeli
 
 # **Tools I Use**
 
+### 🔧 Tools & Technologies
+
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+![Power Query](https://img.shields.io/badge/PowerQuery-7FBB42?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Automate](https://img.shields.io/badge/PowerAutomate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=powerbi&logoColor=white)
 
 
  Tools & Technologies
